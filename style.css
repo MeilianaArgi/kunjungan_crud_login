@@ -1,0 +1,7 @@
+
+body { font-family: sans-serif; padding: 20px; }
+h1, h2 { color: #333; }
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px; border: 1px solid #ccc; }
+a { text-decoration: none; margin: 0 5px; }
+form input, form textarea { width: 300px; margin-bottom: 10px; }
